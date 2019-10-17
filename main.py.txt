@@ -1,2 +1,8 @@
 def topla(x+y): 
      return x+y;
+  
+
+
+#define b 0010001
+#define c 0010010
+#define a 0111100 
