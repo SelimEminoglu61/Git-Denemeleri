@@ -1,4 +1,4 @@
-çarpma(int x,int y){
+
 
 
 

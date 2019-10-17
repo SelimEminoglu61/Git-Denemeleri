@@ -5,4 +5,7 @@ def topla(x+y):
 
 #define b 0010001
 #define c 0010010
-#define a 0111100 
+#define a 0111100   
+
+
+#define Selim
